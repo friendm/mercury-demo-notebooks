@@ -1,2 +1,2 @@
 # mercury-demo-notebooks
-Mercury Demo Notbooks
+This repository is a fork of pplonski/mercury-demo-notebooks
